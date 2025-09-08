@@ -1,0 +1,21 @@
+{
+  "name": "thor",
+  "displayName": "Thor",
+  "description": "theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "thor",
+        "uiTheme": "vs-dark",
+        "path": "./themes/thor-color-theme.json"
+      }
+    ]
+  }
+}
