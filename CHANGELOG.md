@@ -1,9 +1,8 @@
-# Change Log
+# Changelog
 
-All notable changes to the "thor" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## [0.0.1] - 2025-09-08
+### Added
+- Initial release 🎉
+- Dark background
+- Custom sidebar, tabs, activity bar, notifications
+- Colorful syntax highlighting

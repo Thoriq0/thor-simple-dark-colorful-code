@@ -1,16 +1,19 @@
-# thor README
+# Thor Simple Dark Colorful Code
 
-## Working with Markdown
+🎨 A minimal dark theme with colorful syntax highlighting for better focus while coding.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
+- Colorful syntax (strings, variables, functions)
+- Clean dark Background
+- Optimized for web dev & backend dev
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Installation
+1. Search `Thor Simple Dark Colorful Code` in VS Code Marketplace.
+2. Click **Install**.
+3. Activate via `Ctrl+K Ctrl+T` and choose the theme.
 
-## For more information
+## Preview
+![screenshot](./images/preview.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Author
+**Thoriq**
