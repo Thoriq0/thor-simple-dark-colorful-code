@@ -6,10 +6,14 @@
 		"editor.foreground": "#eeffff",
 		"editorWhitespace.foreground": "#b6b0b073",
 		"editorIndentGuide.activeBackground": "#3858e7c5",
-
 		"editorLineNumber.foreground": "#4e515f",
+
 		"editorLineNumber.activeForeground": "#ffffff",
 		"editor.lineHighlightBackground": "#282A36",
+
+		"editorWidget.background": "#282A36",
+
+		"editorSuggestWidget.background": "#282A36",
 
 		// Tabs Group
 		"editorGroup.border": "#323541",
