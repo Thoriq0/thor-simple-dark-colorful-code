@@ -1,6 +1,6 @@
 {
-  "name": "thor",
-  "displayName": "Thor",
+  "name": "thor-simple-dark-colorful-code",
+  "displayName": "Thor Simple Dark Colorful Code",
   "description": "theme",
   "version": "0.0.1",
   "engines": {
@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "thor",
+        "label": "Thor Simple Dark Colorful Code",
         "uiTheme": "vs-dark",
         "path": "./themes/thor-color-theme.json"
       }
