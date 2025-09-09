@@ -15,5 +15,10 @@
 ## Preview
 ![screenshot](./images/preview.png)
 
+## Contributing
+Found a bug or want to suggest improvements?  
+Feel free to open an issue or pull request on GitHub:  
+👉 [thor-simple-dark-colorful-code](https://github.com/Thoriq0/thor-simple-dark-colorful-code)
+
 ## Author
 **Thoriq**
