@@ -2,6 +2,7 @@
   "name": "thor-simple-dark-colorful-code",
   "displayName": "Thor Simple Dark Colorful Code",
   "description": "theme",
+  "icon": "./images/thunderHammer.jpg",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.103.0"
