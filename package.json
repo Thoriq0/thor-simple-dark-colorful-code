@@ -4,6 +4,10 @@
   "description": "theme",
   "icon": "./images/thunderHammer.jpg",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thoriq0/thor-simple-dark-colorful-code"
+  },
   "engines": {
     "vscode": "^1.103.0"
   },
