@@ -1,20 +1,37 @@
 {
   "name": "thor-simple-dark-colorful-code",
   "displayName": "Thor Simple Dark Colorful Code",
-  "description": "theme",
+  "description": "A minimal dark VS Code theme with colorful syntax highlighting for focused coding sessions.",
   "publisher": "Thoriq",
+  "author": "Thoriq",
   "icon": "images/thunderHammer.jpg",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "license": "MIT",
+  "homepage": "https://github.com/Thoriq0/thor-simple-dark-colorful-code#readme",
+  "bugs": {
+    "url": "https://github.com/Thoriq0/thor-simple-dark-colorful-code/issues"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Thoriq0/thor-simple-dark-colorful-code"
   },
+  "keywords": [
+    "theme",
+    "vscode-theme",
+    "dark-theme",
+    "color-theme",
+    "developer-tools"
+  ],
   "engines": {
-    "vscode": "^1.103.0"
+    "vscode": "^1.74.0"
   },
   "categories": [
     "Themes"
   ],
+  "galleryBanner": {
+    "color": "#282A36",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
